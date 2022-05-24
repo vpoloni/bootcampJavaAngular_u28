@@ -1,0 +1,20 @@
+* {
+    background-color: rgb(244, 238, 230);
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    background-color: orange;
+}
+
+span {
+    color: blue;
+}
+
+.bold_p {
+    font-weight: bold;
+    color: darkblue
+}

@@ -1,0 +1,44 @@
+* {
+    font-family: 'Lucida Sans Unicode', 'Times New Roman', Times, serif;
+}
+
+body {
+    border-top:7px solid lightgrey;
+    border-left: 4px solid lightgrey;
+    border-bottom: 13px solid lightgrey;
+    border-right: 7px solid lightgrey;
+    width: 900px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 5px;
+    color: brown;
+}
+
+
+h2{
+    color: #17e32b;
+    border-bottom: 2px solid lightgrey;
+}
+
+h4 {
+    color: brown;
+}
+
+.padre_div{
+    display: flex;
+}
+
+.color_h1{
+    color: green;
+}
+
+.border_div {
+    border: 2px solid lightgrey;
+    margin: 15px;
+    padding: 5px;
+}
+
+
